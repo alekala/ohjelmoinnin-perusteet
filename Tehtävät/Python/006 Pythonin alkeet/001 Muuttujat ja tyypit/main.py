@@ -10,7 +10,7 @@
 # Luo riville 11 lista-tyyppinen muuttuja, jonka nimi on favourite_animals ja se sisältää kolme lempi eläintäsi lanka-tyyppisenä muuttujana.
 
 
-# Luo riville 14 totuusarvo-tyyppinen muuttuja, jonka nimi on vacation_kept ja sen arvo on False
+# Luo riville 14 totuusarvo-tyyppinen muuttuja, jonka nimi on vacation_kept ja sen arvo on False.
 
 
 # Luo sanasto-tyyppinen muuttuja alkaen riviltä 21, jonka nimi on person ja se sisältää seuraavat kolme avain-arvo paria:
